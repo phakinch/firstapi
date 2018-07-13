@@ -1,2 +1,0 @@
-# Multiplied
-test
